@@ -1,0 +1,232 @@
+.brand{
+    
+    text-align: center;
+    margin: auto;
+    display: block;
+    font-family: fantasy;
+    font-size: 40px;
+    font-variant: bolder; 
+    line-height: 50px;
+}
+.brandtalks{
+    text-align: center;
+    margin: auto;
+    display: block;
+    font-family: unset;
+    font-size: 15px;
+    font-variant: small-caps;
+}
+
+.circle:hover{
+    scale: 0.9;
+}
+.circle{
+    transition: scale 1.9 ease-in-out;
+}
+.circle{
+    text-align: center;
+}
+.circle{
+    border: 3px solid rgb(255, 255, 255);
+        background:mediumseagreen;
+        border-radius:50%;
+        color: #fff;
+        height: 5em;
+        position: relative;
+        width: 5em;
+}
+.circle-icon {
+        fill: currentColor;
+        height: 50%;
+        left: 50%;
+        position: sticky;
+        stroke: currentColor;
+        stroke-width: 0;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        width: 50%;
+      }
+
+.logo:hover{
+    scale: 0.9;
+}
+.logo{
+    transition: scale 0.9 ease-in-out;
+}
+.logo{
+    text-align: center;
+    margin: auto;
+    display: block;
+}
+  
+  
+.hr1{
+    width: 100cm;
+    margin-left: -2cm;
+    border: 1px solid rgb(255, 255, 255);
+    background-color:mediumseagreen;
+    height: 10px;
+}
+.hr2{
+    width: 100cm;
+    margin-left: -2cm;
+    border: 1px solid rgb(255, 255, 255);
+    background-color:mediumseagreen;
+    height: 10px;
+} 
+/* .background{ */
+    /* background-size: 100%;
+    -webkit-background-size: 100%;
+} */
+
+/* Кнопка выпадающего списка */
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+  }
+  
+  /* Контейнер <div> - необходим для размещения выпадающего содержимого */
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  /* Выпадающее содержимое (скрыто по умолчанию) */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  /* Ссылки внутри выпадающего списка */
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  /* Изменение цвета выпадающих ссылок при наведении курсора */
+  .dropdown-content a:hover {background-color: #ddd;}
+  
+  /* Показать выпадающее меню при наведении курсора */
+  .dropdown:hover .dropdown-content {display: block;}
+  
+  /* Изменение цвета фона кнопки раскрывающегося списка при отображении содержимого раскрывающегося списка */
+  .dropdown:hover .dropbtn {background-color: #3e8e41;}
+
+  .link{
+    line-height: 100px;
+    background-color:rgb(255, 255, 255) ;
+    line-height: 50px;
+
+    margin: auto;
+    display: block;
+    font-family: fantasy;
+    font-size: 20px;
+    font-variant: bolder; 
+
+}
+.leaks:hover{
+    scale: 0.9;
+}
+.leaks{
+    transition: scale 0.9 ease-in-out;
+}
+
+.leaks{
+    border-radius: 10cm;
+    text-align: right;
+    border: 7px solid rgb(255, 255, 255);
+  
+}
+.h2leaks{
+    margin-left: 1px;
+    margin-top: -70px;
+    display: block;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 30px;
+    font-variant: bolder; 
+    line-height: 30px;
+}
+.history{
+    font-size: 15px;
+    margin-left: 1px;
+    margin-top: 10px;
+    margin-left: 170px;
+    margin-right: 170px;
+    display: block;
+    text-align: left;
+    font-family: fantasy;
+    font-variant: small-caps; 
+    line-height: 23px;
+    display: -webkit-inline-box ;
+}
+.leek{
+    border-radius: 10cm;
+
+    border-color: rgb(255, 255, 255);
+    text-align: center;
+} 
+.history{
+
+    text-align: center;
+    text-transform: initial;
+    margin: auto;
+    display: block;
+    font-family: fantasy;
+    font-size: 15px;
+    line-height: 30px;
+    font-variant: small-caps;   
+}
+.history2{
+
+        text-align: center;
+        text-transform: initial;
+        margin: auto;
+        display: block;
+        font-family: fantasy;
+        font-size: 15px;
+        line-height: 30px;
+        font-variant: bold;   
+}
+
+.history-zaglavie{
+            text-align: center;
+            text-transform: initial;
+            margin: auto;
+            display: block;
+            font-family: fantasy;
+            font-size: 30px;
+            line-height: 30px;
+            font-variant: bold;  
+}
+
+.map:hover{
+    scale: 1.8;
+}
+.map{
+    transition: scale 0.2 ease-in-out;
+}
+.map {
+    
+    border-radius: 6cm;
+    margin: auto;
+    height: 100px;
+    width: 100%;
+    margin-top: 60px;
+}
+.text {
+    text-align: center;
+    display: block;
+    border-radius: 10cm;
+    height: 70px;
+    width: 400px;
+}
